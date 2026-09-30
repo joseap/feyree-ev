@@ -1,0 +1,14 @@
+{
+  "domain": "feyree_ev",
+  "name": "Feyree EV",
+  "version": "1.0.0",
+  "documentation": "https://github.com/feyree/feyree-ev",
+  "issue_tracker": "https://github.com/feyree/feyree-ev/issues",
+  "requirements": ["tinytuya==1.20.0"],
+  "dependencies": [],
+  "codeowners": ["@feyree"],
+  "description": "Integración local para cargadores de vehículos eléctricos Tuya.",
+  "iot_class": "local_push",
+  "config_flow": true,
+  "use_yaml_flow": false
+}
